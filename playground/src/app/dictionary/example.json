@@ -1,0 +1,8 @@
+{
+    "example": {
+        "greeting": {
+            "en": "Hello from example module!",
+            "ru": "Модуль example передаёт тебе привет!"
+        }
+    }
+}

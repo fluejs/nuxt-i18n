@@ -1,0 +1,28 @@
+{
+    "hello_world": {
+        "en": "Hello world!",
+        "ru": "Привет мир!"
+    },
+    "today_is": {
+        "en": "Today is {date}",
+        "ru": "Сегодня {date}"
+    },
+    "apples": {
+        "en": "{0}[apple|apples]",
+        "ru": "{0}[яблоко|яблока|яблок]"
+    },
+    "author": {
+        "en": "Author: {link}{name}{/link}",
+        "ru": "Автор: {link}{name}{/link}"
+    },
+    "nav": {
+        "back": {
+            "en": "Back",
+            "ru": "Назад"
+        },
+        "go_to": {
+            "en": "Go to {0}",
+            "ru": "Перейти на {0}"
+        }
+    }
+}
