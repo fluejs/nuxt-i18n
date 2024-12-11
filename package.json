@@ -1,6 +1,6 @@
 {
     "name": "@fluejs/nuxt-i18n",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Simple internationalization module for Nuxt",
     "repository": "git@github.com:fluejs/nuxt-i18n.git",
     "author": "fl3nkey",
