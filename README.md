@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/npm/v/@fluejs/nuxt-i18n.svg">](https://www.npmjs.com/package/@fluejs/nuxt-i18n)
 <img src="https://img.shields.io/npm/l/@fluejs/txtag">
 
-[Full documentation](https://txtag.fl3nkey.com/)
+[Full documentation](https://nuxt-i18n.fl3nkey.com/)
 
 `@fluejs/nuxt-i18n` is a simple yet flexible module for Nuxt that helps localize your project. Here’s what the module offers:
 
