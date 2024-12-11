@@ -32,7 +32,11 @@ export default defineNuxtPlugin({
         // eslint-disable-next-line consistent-return
         addRouteMiddleware('i18n', (to) => {
             if (!to.params.locale) {
-                return navigateTo(localeRoute(to, $i18n.locale.value));
+                const resolved = router.resolve(localeRoute(to, $i18n.locale.value));
+
+                if (resolved.matched.length) {
+                    return navigateTo(resolved.fullPath);
+                }
             }
         }, {
             global: true,
